@@ -1,0 +1,5 @@
+train: predtren/train/images
+val: predtren/valid/images
+
+nc: 7
+names: ['Объект', 'Рыба', 'Маленькая рыба', 'Краб', 'Креветка',  'Медуза', 'Морская Звезда']
